@@ -61,6 +61,6 @@ _0.75 個全端開發人員，熟悉多種程式語言。_
 
 ### ☕ 個人專案 (Side project)
 
-- [DesignerShop_back-end](https://github.com/s9971212/DesignerShop)
-- DesignerShop_front-end (規劃中)
+- [DesignerShop_backend](https://github.com/s9971212/DesignerShop)
+- DesignerShop_frontend (規劃中)
 - 更多構想正在規劃中...
