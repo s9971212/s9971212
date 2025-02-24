@@ -62,5 +62,5 @@ I'm currently working on web front-end and back-end technologies, especially Vue
 ### ☕ Side project
 
 - [DesignerShop_backend](https://github.com/s9971212/DesignerShop_backend)
-- DesignerShop_frontend (in the works)
+- [DesignerShop_frontend](https://github.com/s9971212/DesignerShop_frontend) (in the works)
 - More Ideas in the works...
