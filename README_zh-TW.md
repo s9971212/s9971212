@@ -1,21 +1,21 @@
 ## 你好呀 👋 [Go English](./README.md)
 
-_0.75 個全端開發人員，熟悉多種程式語言。_
+_全端開發人員，熟悉多種程式語言。_
 
 ### 🔭 現在
 
-我目前正在研究 web 前端與後端技術，尤其是 Vue.js。
+目前正在研究 web 前端與後端技術，尤其是 Python。
 
 ### ✨ 我的技術堆疊
 
 **後 端**
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-239120?style=flat-square&logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Java](https://custom-icon-badges.demolab.com/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-239120?style=flat-square&logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 **前 端**
 
@@ -34,15 +34,15 @@ _0.75 個全端開發人員，熟悉多種程式語言。_
 
 **工具**
 
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Microsoft Visual Studio](https://custom-icon-badges.demolab.com/badge/Microsoft%20Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16?style=flat-square&logo=Eclipse&logoColor=white)](https://www.eclipse.org/)
-[![Microsoft Visual Studio](https://custom-icon-badges.demolab.com/badge/Microsoft%20Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=vsc&logoColor=white)](https://code.visualstudio.com/)
 
 [![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=msazure&logoColor=white)](https://azure.microsoft.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=msazure&logoColor=white)](https://azure.microsoft.com/)
 [![Gitea](https://img.shields.io/badge/Gitea-6eaa5b?style=flat-square&logo=gitea&logoColor=white)](https://about.gitea.com/)
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
@@ -61,6 +61,13 @@ _0.75 個全端開發人員，熟悉多種程式語言。_
 
 ### ☕ 個人專案 (Side project)
 
+<br/>**Python**
+- [license-plate-recognition](https://github.com/s9971212/license-plate-recognition)
+
+<br/>**Java**
 - [DesignerShop_backend](https://github.com/s9971212/DesignerShop_backend)
+
+<br/>**Vue.js**
 - [DesignerShop_frontend](https://github.com/s9971212/DesignerShop_frontend) (規劃中)
-- 更多構想正在規劃中...
+
+更多構想正在規劃中...
