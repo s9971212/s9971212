@@ -1,6 +1,6 @@
 ## Hi there 👋 [看中文版](./README_zh-TW.md)
 
-_0.75 Full-Stack Developer, proficient in various programming languages._
+_Full-Stack Developer, proficient in various programming languages._
 
 ### 🔭 Now
 
