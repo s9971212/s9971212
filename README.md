@@ -48,6 +48,7 @@ I'm currently working on web front-end and back-end technologies, especially Pyt
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-3287fe?style=flat-square&logo=gemini&logoColor=white)](https://gemini.google.com/app)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)](https://trello.com/)
 
@@ -63,6 +64,7 @@ I'm currently working on web front-end and back-end technologies, especially Pyt
 
 <br/>**Python**
 - [license-plate-recognition](https://github.com/s9971212/license-plate-recognition)
+- [voice-customer-service](https://github.com/s9971212/voice-customer-service)
 
 <br/>**Java**
 - [DesignerShop_backend](https://github.com/s9971212/DesignerShop_backend)
